@@ -1,0 +1,79 @@
+
+   
+   
+   
+   [       {      "id": 1,
+                "title": "iPhone 15 Pro Max",
+                "brand": "apple",
+                "price": 1199,
+                "originalPrice": 1299,
+                "image": "./images/iphone15pro.jpeg",
+                "storage": "256",
+                "rating": 4.8,
+                "stock": 2845,
+                "features": ["6.7\"", "256GB", "5G"]
+            },
+            {
+               "id": 2,
+                "title": "Galaxy S24 Ultra",
+                "brand": "samsung",
+                "price": 1099,
+                "originalPrice": 1199,
+                "image": "./images/s24 ultra.jpeg",
+                "storage": "512",
+                "rating": 4.7,
+                "stock": 1932,
+                "features": ["6.8\"", "512GB", "5G"]
+            },
+            {
+                "id": 3,
+                "title": "Pixel 8 Pro",
+                "brand": "google",
+                "price": 899,
+                "originalPrice": 999,
+                "image": "./images/pixel8 pro.jpeg",
+                "storage": "128",
+                "rating": 4.6,
+                "stock": 1456,
+                "features": ["6.7\"", "128GB", "5G"]
+            },
+            {
+                "id": 4,
+                "title": "OnePlus 12",
+                "brand": "oneplus",
+                "price": 799,
+                "originalPrice": 899,
+                "image": "./images/one pluse12.jpeg",
+                "storage": "256",
+                "rating": 4.5,
+                "stock": 987,
+                "features": ["6.8\"", "256GB", "5G"]
+            },
+            {
+                "id": 5,
+                "title": "iPhone 14",
+                "brand": "apple",
+                "price": 699,
+                "originalPrice": 799,
+                "image": "./images/iphone 14.jpeg",
+                "storage": "128",
+                "rating": 4.4,
+                "stock": 3421,
+                "features": ["6.1\"", "128GB", "5G"]
+            },
+            {
+                "id": 6,
+                "title": "Galaxy A54",
+                "brand": "samsung",
+                "price": 449,
+                "originalPrice": 499,
+                "image": "./images/a54.jpeg",
+                "storage": "256",
+                "rating": 4.3,
+                "stock": 756,
+                "features": ["6.4\"", "256GB", "5G"]
+            }
+
+            
+        ]
+        

@@ -1,0 +1,104 @@
+ [
+    {
+      "id": 21,
+      "title": "Rolex Submariner",
+      "type": "Luxury",
+      "brand": "Rolex",
+      "price": 8500,
+      "stock": 987,
+      "features": ["Water Resistant", "Automatic Movement", "Ceramic Bezel"],
+      "image": "./images/watches/Rolex Submariner.jpeg"
+    },
+    {
+      "id": 22,
+      "title": "Casio G-Shock",
+      "type": "Digital",
+      "brand": "Casio",
+      "price": 150,
+      "stock": 987,
+      "features": ["Shock Resistant", "Alarm", "Stopwatch", "LED Backlight"],
+      "image": "./images/watches/Casio G-Shock.jpeg"
+    },
+    {
+      "id": 23,
+      "title": "Apple Watch Series 9",
+      "type": "Smartwatch",
+      "brand": "Apple",
+      "price": 399,
+      "stock": 987,
+      "features": ["Heart Rate Monitor", "GPS", "Bluetooth", "Fitness Tracking"],
+      "image": "./images/watches/Apple Watch Series 9.jpeg"
+    },
+    {
+      "id": 24,
+      "title": "Fitbit Sense 2",
+      "type": "Smartwatch",
+      "brand": "Fitbit",
+      "price": 229,
+      "stock": 987,
+      "features": ["Stress Management", "Heart Health Tracking", "Sleep Tracking", "GPS", "Alexa Built-in"],
+      "image": "./images/watches/Fitbit Sense 2.jpeg"
+    },
+    {
+      "id": 25,
+      "title": "Amazfit GTR 4",
+      "type": "Smartwatch",
+      "brand": "Amazfit",
+      "price": 199,
+      "stock": 987,
+      "features": ["Dual-Band GPS", "Heart Rate Monitoring", "Sports Modes", "Sleep Tracking", "Alexa Support"],
+      "image": "./images/watches/Amazfit GTR 4.jpeg"
+    },
+    {
+      "id": 26,
+      "title": "OnePlus Watch 2",
+      "type": "Smartwatch",
+      "brand": "OnePlus",
+      "price": 249,
+      "stock": 987,
+      "features": ["SpO2 Monitoring", "Stress Tracking", "Sleep Tracking", "GPS", "Fast Charging"],
+      "image": "./images/watches/OnePlus Watch 2.jpeg"
+    },
+    {
+      "id": 27,
+      "title": "Huawei Watch GT 4",
+      "type": "Smartwatch",
+      "brand": "Huawei",
+      "price": 269,
+      "stock": 987,
+      "features": ["Heart Rate Monitor", "SpO2", "Sleep Tracking", "GPS", "NFC Payments"],
+      "image": "./images/watches/Huawei Watch GT 4.jpeg"
+    },
+    {
+      "id": 28,
+      "title": "Fossil Gen 6",
+      "type": "Smartwatch",
+      "brand": "Fossil",
+      "price": 299,
+      "stock": 987,
+      "features": ["Google Assistant", "Heart Rate Monitoring", "Sleep Tracking", "GPS", "Fast Charging"],
+      "image": "./images/watches/Fossil Gen 6.jpeg"
+    },
+    {
+      "id": 29,
+      "title": "TicWatch Pro 5",
+      "type": "Smartwatch",
+      "brand": "TicWatch",
+      "price": 349,
+      "stock": 987,
+      "features": ["Dual Screen Technology", "GPS", "Heart Rate Monitor", "Sleep Tracking", "Google Assistant"],
+      "image": "./images/watches/TicWatch Pro 5.jpeg"
+    },
+    {
+      "id": 30,
+      "title": "Suunto 9 Peak Pro",
+      "type": "Smartwatch",
+      "brand": "Suunto",
+      "price": 499,
+      "stock": 987,
+      "features": ["GPS", "Sport Tracking", "Heart Rate Monitor", "Water Resistance", "Sleep Tracking"],
+      "image": "./images/watches/Suunto 9 Peak Pro.jpeg"
+    }
+  ]
+  
+

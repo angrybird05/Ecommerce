@@ -1,0 +1,94 @@
+[
+            {
+                "id": 7,
+                "name": "ROG Strix Gaming Laptop",
+                "category": "gaming",
+                "brand": "asus",
+                "price": 1899,
+                "features": "RTX 4070, 16GB RAM, 1TB SSD",
+                "icon": "🎮",
+                "stock": 987,
+                "image": "./images/laptops/ROG Strix Gaming Laptop.jpeg",
+
+                "sale": true
+                
+            },
+            {
+                "id": 8,
+                "name": "MacBook Pro 14\"",
+                "category": "creative",
+                "brand": "apple",
+                "price": 2399,
+                "features": "M3 Pro chip, 18GB RAM, 512GB SSD",
+                "icon": "💻",
+                "image": "./images/laptops/MacBook Pro 14.jpeg",
+
+                "stock": 987,
+                "sale": false
+            },
+            {
+                "id": 9,
+                "name": "ThinkPad X1 Carbon",
+                "category": "business",
+                "brand": "lenovo",
+                "price": 1599,
+                "features": "Intel i7, 16GB RAM, 256GB SSD",
+                "icon": "💼",
+                "image": "./images/laptops/ThinkPad X1 Carbon.jpeg",
+
+                "stock": 987,
+                "sale": false
+            },
+            {
+                "id": 10,
+                "name": "XPS 13 Plus",
+                "category": "ultrabook",
+                "brand": "dell",
+                "price": 1299,
+                "features": "Intel i5, 16GB RAM, 512GB SSD",
+                "icon": "⚡",
+                "stock": 987,
+                "image": "./images/laptops/XPS 13 Plus.jpeg",
+
+                "sale": true
+            },
+            {
+                "id": 11,
+                "name": "Spectre x360",
+                "category": "ultrabook",
+                "brand": "hp",
+                "price": 1199,
+                "features": "Intel i7, 16GB RAM, 1TB SSD, 2-in-1",
+                "icon": "🔄",
+                "stock": 987,
+                "image": "./images/laptops/Spectre x360.jpeg",
+
+                "sale": false
+            },
+            {
+                "id": 12,
+                "name": "Predator Helios 300",
+                "category": "gaming",
+                "brand": "asus",
+                "price": 1499,
+                "features": "RTX 4060, 16GB RAM, 512GB SSD",
+                "icon": "🎮",
+                "image": "./images/laptops/MacBook Pro 14.jpeg",
+
+                "stock": 987,
+                "sale": true
+            },
+            {
+                "id": 13,
+                "name": "MacBook Air M3",
+                "category": "ultrabook",
+                "brand": "apple",
+                "price": 1399,
+                "features": "M3 chip, 16GB RAM, 256GB SSD",
+                "icon": "💨",
+                "stock": 987,
+                "image": "./images/laptops/MacBook Air M3.jpeg",
+
+                "sale": false
+            }
+        ]

@@ -1,0 +1,99 @@
+ [
+            {
+                "id": 14,
+                "title": "Sony WH-1000XM5",
+                "category": "wireless",
+                "brand": "sony",
+                "price": 399,
+                "features": "Industry-leading noise cancellation, 30hr battery",
+                "icon": "🎧",
+                 "stock": 987,
+                "image": "./images/headphones/Sony WH-1000XM5.jpeg",
+                "sale": true
+            },
+            {
+                "id": 15,
+                "title": "AirPods Pro",
+                "category": "earbuds",
+               "brand": "apple",
+                "price": 249,
+                "features": "Spatial audio, active noise cancellation",
+                "icon": "🎵",
+                 "stock": 987,
+                "image": "./images/headphones/AirPods Pro.jpeg",
+                "sale": false
+            },
+            {
+                "id": 16,
+                "title": "Bose QuietComfort 45",
+                "category": "wireless",
+                "brand": "bose",
+                "price": 329,
+                "features": "Premium comfort, legendary quiet",
+                "icon": "🎧",
+                 "stock": 987,
+                "image": "./images/headphones/Bose QuietComfort 45.jpeg",
+                "sale": false
+            },
+            {
+                "id": 17,
+                "title": "SteelSeries Arctis Pro",
+                "category": "gaming",
+                "brand": "steelseries",
+                "price": 179,
+                "features": "Hi-Res certified, DTS Headphone:X v2.0",
+                "icon": "🎮",
+                 "stock": 987,
+                "image": "./images/headphones/SteelSeries Arctis Pro.jpeg",
+                "sale": true
+            },
+            {
+                "id": 18,
+                "title": "Sennheiser HD 660S",
+                "category": "studio",
+                "brand": "sennheiser",
+                "price": 499,
+                "features": "Open-back reference headphones",
+                "icon": "🎤",
+                 "stock": 987,
+                "image": "./images/headphones/Sennheiser HD 660S.jpeg",
+                "sale": false
+            },
+            {
+                "id": 19,
+                "title": "Beats Studio3",
+                "category": "wireless",
+                "brand": "beats",
+                "price": 199,
+                "features": "Pure adaptive noise canceling",
+                "icon": "🎧",
+                 "stock": 987,
+                "image": "./images/headphones/Beats Studio3.jpeg",
+                "sale": true
+            },
+            {
+                "id":19, 
+                "title": "Sony WF-1000XM4",
+                "category": "earbuds",
+                "brand": "sony",
+                "price": 279,
+                "features": "Industry-leading noise canceling earbuds",
+                "icon": "🎵",
+                 "stock": 987,
+                "image": "./images/headphones/Sony WF-1000XM4.jpeg",
+                "sale": false
+            },
+            {
+                "id": 20,
+                "title": "Audio-Technica ATH-M50x",
+                "category": "studio",
+                "brand": "audio-technica",
+                "price": 149,
+                "features": "Professional monitor headphones",
+                "icon": "🎤",
+                 "stock": 987,
+                "image": "./images/headphones/Audio-Technica ATH-M50x.jpeg",
+                "sale": false
+            }
+        ]
+        

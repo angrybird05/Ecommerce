@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="cart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="index.html" class="logo"><span>Buyzo</span></a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li>
+                 <div class="search-cart">
+                    <!-- <input type="text" placeholder="Search phones..." class="search-box"> -->
+                   <a href="cart.html"><button class="cart-btn"><i class="fa-solid fa-cart-shopping">0</i></button></a>
+                </div>
+
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <main>
+        <h1 class="page-title">Your Shopping Cart</h1>
+        
+        <div class="cart-container">
+            <section class="cart-items">
+             <template class="productContainer" >
+                 <div class="product-card" id="cardValue">
+                 <article class="cart-item" >
+                    <img class="item-image" src="" alt="">
+                    <div class="item-details"  >
+                        <h3 class="item-title">Premium Wireless Headphones</h3>
+                        <div class="item-price">$129.99</div>
+                        <div class="item-stock">In Stock</div>
+                        <div class="item-actions">
+                            <div class="quantity-selector" >
+                                <button class="incBtn">+</button>
+                                <p class="productQuantity" data-type="1">1</p>
+                                <button class="decBtn">-</button>
+                            </div>
+                            <button class="remove-btn">Remove</button>
+                        </div>
+                    </article>
+                    </div>
+                </template>
+                
+                <!-- <article class="cart-item">
+                    <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/70010579-4f17-46b5-ad72-a54464c23a37.png" alt="Ergonomic office chair in gray fabric with adjustable features" class="item-image">
+                    <div class="item-details">
+                        <h3 class="item-title">Ergonomic Office Chair</h3>
+                        <div class="item-price">$249.99</div>
+                        <div class="item-stock">In Stock</div>
+                        <div class="item-actions">
+                            <div class="quantity-selector">
+                                <button class="quantity-btn">-</button>
+                                <input type="number" value="1" min="1" class="quantity-input">
+                                <button class="quantity-btn">+</button>
+                            </div>
+                            <button class="remove-btn">Remove</button>
+                        </div>
+                    </div>
+                </article>
+                
+                <article class="cart-item">
+                    <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9def0e31-9d23-4254-aa0c-b2b66fd7fe3a.png" alt="Smart LED desk lamp with adjustable brightness and color temperature" class="item-image">
+                    <div class="item-details">
+                        <h3 class="item-title">Smart LED Desk Lamp</h3>
+                        <div class="item-price">$59.99</div>
+                        <div class="item-stock">In Stock</div>
+                        <div class="item-actions">
+                            <div class="quantity-selector">
+                                <button class="quantity-btn">-</button>
+                                <input type="number" value="2" min="1" class="quantity-input">
+                                <button class="quantity-btn">+</button>
+                            </div>
+                            <button class="remove-btn">Remove</button>
+                        </div>
+                    </div>
+                </article> -->
+            </section>
+            
+            <section class="cart-summary">
+                <h2 class="summary-title">Order Summary</h2>
+                <div class="summary-row">
+                    <span class="summary-label">Subtotal</span>
+                    <span class="summary-value  subTotal"  >$439</span>
+                </div>
+                <div class="summary-row">
+                    <span class="summary-label">Shipping</span>
+                    <span class="summary-value shippingTax">$14</span>
+                </div>
+                <div class="summary-row">
+                    <span class="summary-label Tax">Tax</span>
+                    <span class="summary-value">0.8%</span>
+                </div>
+                <div class="summary-row total-row">
+                    <span class="summary-label">Total</span>
+                    <span class="summary-value total ">0</span>
+                </div>
+                <button class="checkout-btn">Proceed to Checkout</button>
+                <a href="shop.html" class="continue-shopping" style="display: block; text-align: center; margin-top: 1rem;">Continue Shopping</a>
+            </section>
+        </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="about.html">About Us</a>
+                <a href="contact.html">Contact</a>
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="shipping.html">Shipping Policy</a>
+            </div>
+            <p class="copyright">© 2023 UrbanNest. All rights reserved.</p>
+        </div>
+     </footer>
+   <script type="module" src="./card.js"></script>
+
+</body>
+</html>

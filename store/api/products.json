@@ -1,0 +1,77 @@
+[
+    
+    {
+    "id": 1,
+    "title": "Smartphone",
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "price": 799.99,
+    "category": "Mobile Phones",
+    "stock": 25,
+    "image": "./images/smartphones.jpg",  
+ "description": "Experience the latest technology with the Samsung Galaxy S23, featuring a stunning display, powerful processor, and advanced camera system."
+},
+{
+    "id": 2,
+    "title": "Laptop",
+    "brand": "Dell",
+    "model": "XPS 13",
+    "price": 1199.99,
+    "category": "Computers",
+    "stock": 10,
+    "image": "./images/laptops.jpg",
+  "description": "A high-performance laptop with a sleek design, vibrant display, and long-lasting battery life, perfect for work and entertainment."
+
+},
+{
+    "id": 3,
+    "title": "Wireless Earbuds",
+    "brand": "Apple",
+    "model": "AirPods Pro",
+    "price": 249.99,
+    "category": "Audio",
+    "stock": 50,
+    "image": "./images/headphones.jpeg",
+   "description": "headphones cater to different preferences , offering options with features such as noise cancellation  for enhanced convenience and immersion."
+
+},
+{
+    "id": 4,
+    "title": "Smartwatch",
+    "brand": "Garmin",
+    "model": "Venu 2",
+    "price": 399.99,
+    "category": "Wearables",
+    "stock": 15,
+    "image": "./images/smartwatch.webp",
+  "description": "Stay connected and track your health with the Garmin Venu 2 smartwatch. Features include advanced fitness tracking, heart rate monitoring, GPS, and a vibrant AMOLED display. Perfect for an active lifestyle."
+
+},
+{
+    "id": 5,
+    "title": "Tablet",
+    "brand": "Apple",
+    "model": "iPad Air",
+    "price": 599.99,
+    "category": "Tablets",
+    "stock": 20,
+    "image": "./images/ipad.jpg",
+   "description": "The Apple iPad Air combines powerful performance with a lightweight design. Enjoy a vibrant display, fast processor, and support for Apple Pencil, making it ideal for productivity, creativity, and entertainment."
+
+},
+{
+    "id": 6,
+    "title": "Camera",
+    "brand": "Nikon",
+    "model": "nikon350",
+    "price": 999.99,
+    "category": "cameras",
+    "stock": 20,
+    "image": "./images/camera.png",
+   "description": "Unlock your creative potential and capture breathtaking photos and videos with the StellarShot X1, a high-performance mirrorless camera designed for both seasoned photographers and passionate beginners alike"
+
+} 
+
+]
+
+       
