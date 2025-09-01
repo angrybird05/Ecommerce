@@ -2,6 +2,7 @@ import mobiles from  "./api/mobiles.json";
 import laptops from  "./api/laptop.json";
 import headphones from  "./api/headphones.json";
 import watches from  "./api/watches.json";
+import tablets from  "./api/tablets.json";
 import { getCardProducts } from "../getCardProducts";
 import { fetchLsData } from "./fetchLsData";
 import { removeFomCard } from "../removeFomCard";
@@ -32,10 +33,14 @@ let filterProd = watches.filter((currProduct) => {
 
 return cartProducts.some((currElem) => currElem.id === currProduct.id); 
 });
+let filterPr = tablets.filter((currProduct) => {
+
+return cartProducts.some((currElem) => currElem.id === currProduct.id); 
+});
 
 
 
-const finalProducts = [...filterProducts,...filterProduct,...filterPro,...filterProd]; ;
+const finalProducts = [...filterProducts,...filterProduct,...filterPro,...filterProd,...filterPr]; ;
 // console.log(finalProducts);
 
 const cartElement = document.querySelector('.cart-items');

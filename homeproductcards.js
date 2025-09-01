@@ -55,6 +55,12 @@ const productTemplate = document.querySelector('.product-template');
                 window.location.href = 'watch.html';
             });
         }
+        if (elementId === 'card5') {
+        
+        exploreBtn.addEventListener('click', () => {
+                window.location.href = 'tablets.html';
+            });
+        }
 
         // exploreBtn.addEventListener('click', () => {
             

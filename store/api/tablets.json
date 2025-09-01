@@ -1,0 +1,122 @@
+[
+  {
+    "id": 31,
+    "title": "iPad Pro 12.9",
+    "brand": "Apple",
+    "price": 1099,
+    "originalPrice": 1199,
+    "image": "./images/tablets/iPad Pro 12.9.jpeg",
+    "storage": "512",
+    "rating": 4.8,
+    "stock": 420,
+    "features": ["12.9\"", "512GB", "M2 Chip"]
+  },
+  {
+    "id": 32,
+    "title": "Galaxy Tab S9",
+    "brand": "Samsung",
+    "price": 899,
+    "originalPrice": 999,
+    "image": "./images/tablets/Galaxy Tab S9.jpeg",
+    "storage": "256",
+    "rating": 4.6,
+    "stock": 310,
+    "features": ["11\"", "256GB", "5G"]
+  },
+  {
+    "id": 33,
+    "title": "Xiaomi Pad 6",
+    "brand": "Xiaomi",
+    "price": 369,
+    "originalPrice": 399,
+    "image": "./images/tablets/Xiaomi Pad 6.jpeg",
+    "storage": "128",
+    "rating": 4.4,
+    "stock": 650,
+    "features": ["11\"", "128GB", "Snapdragon 870"]
+  },
+  {
+    "id": 34,
+    "title": "Lenovo Tab P12 Pro",
+    "brand": "Lenovo",
+    "price": 599,
+    "originalPrice": 649,
+    "image": "./images/tablets/Lenovo Tab P12 Pro.jpeg",
+    "storage": "256",
+    "rating": 4.5,
+    "stock": 280,
+    "features": ["12.6\"", "256GB", "OLED Display"]
+  },
+  {
+    "id": 35,
+    "title": "Microsoft Surface Go 3",
+    "brand": "Microsoft",
+    "price": 529,
+    "originalPrice": 599,
+    "image": "./images/tablets/Microsoft Surface Go 3.jpeg",
+    "storage": "128",
+    "rating": 4.2,
+    "stock": 190,
+    "features": ["10.5\"", "128GB", "Windows 11"]
+  },
+  {
+    "id": 36,
+    "title": "Realme Pad X",
+    "brand": "Realme",
+    "price": 299,
+    "originalPrice": 349,
+    "image": "./images/tablets/Realme Pad X.jpeg",
+    "storage": "128",
+    "rating": 4.1,
+    "stock": 720,
+    "features": ["11\"", "128GB", "Dolby Atmos"]
+  },
+  {
+    "id": 37,
+    "title": "Huawei MatePad Pro",
+    "brand": "Huawei",
+    "price": 749,
+    "originalPrice": 799,
+    "image": "./images/tablets/Huawei MatePad Pro.jpeg",
+    "storage": "256",
+    "rating": 4.4,
+    "stock": 270,
+    "features": ["12.6\"", "256GB", "Kirin 9000E"]
+  },
+  {
+    "id": 38,
+    "title": "Honor Pad 9",
+    "brand": "Honor",
+    "price": 329,
+    "originalPrice": 379,
+    "image": "./images/tablets/Honor Pad 9.jpeg",
+    "storage": "128",
+    "rating": 4.0,
+    "stock": 540,
+    "features": ["11.5\"", "128GB", "Quad Speakers"]
+  },
+  {
+    "id": 39,
+    "title": "Nokia T20",
+    "brand": "Nokia",
+    "price": 229,
+    "originalPrice": 249,
+    "image": "./images/tablets/Nokia T20.jpeg",
+    "storage": "64",
+    "rating": 3.9,
+    "stock": 860,
+    "features": ["10.4\"", "64GB", "2K Display"]
+  },
+  {
+    "id": 40,
+    "title": "Amazon Fire HD 10",
+    "brand": "Amazon",
+    "price": 149,
+    "originalPrice": 179,
+    "image": "./images/tablets/Amazon Fire HD 10.jpeg",
+    "storage": "64",
+    "rating": 3.8,
+    "stock": 1000,
+    "features": ["10.1\"", "64GB", "Alexa"]
+  }
+]
