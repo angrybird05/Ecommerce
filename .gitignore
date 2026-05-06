@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment & Config Files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+.env.test
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build & IDE Config
+.eslintrc
+.eslintrc.js
+.eslintrc.json
+.prettierrc
+.prettierrc.json
+tsconfig.json
+tsconfig.*.json
+webpack.config.js
+babel.config.js
+jest.config.js
+
+# Lock files (optional - uncomment if needed)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# OS Files
+Thumbs.db
+desktop.ini
